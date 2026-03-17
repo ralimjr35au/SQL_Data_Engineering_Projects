@@ -28,3 +28,5 @@ ORDER BY
   MEDIAN(jpf.salary_year_avg) DESC
 LIMIT 25;
 
+
+
