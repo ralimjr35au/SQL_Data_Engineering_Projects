@@ -13,5 +13,4 @@ GROUP BY
   cd.name
 HAVING COUNT(posting_count) > 3000
 ORDER BY
-  COUNT(posting_count) DESC
-LIMIT 10;
+  COUNT(posting_count) DESC;
